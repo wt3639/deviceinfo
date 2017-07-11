@@ -1,8 +1,7 @@
-﻿  deviceinfo.cpp
+﻿  stdafx.cpp
+  deviceinfo.cpp
   正在生成代码
-  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
-  deviceinfo.vcxproj -> C:\Users\c\Documents\Visual Studio 2015\Projects\deviceinfo\x64\Release\deviceinfo.exe
-  deviceinfo.vcxproj -> C:\Users\c\Documents\Visual Studio 2015\Projects\deviceinfo\x64\Release\deviceinfo.pdb (Full PDB)
+  deviceinfo.vcxproj -> C:\Users\c\documents\visual studio 2015\Projects\deviceinfo\x64\Release\deviceinfo.exe
+  deviceinfo.vcxproj -> C:\Users\c\documents\visual studio 2015\Projects\deviceinfo\x64\Release\deviceinfo.pdb (Full PDB)
